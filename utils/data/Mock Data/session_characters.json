@@ -1,0 +1,37 @@
+{
+  "-O8zBLD66ogu_JlVS4-Q": {
+    "session_id": "-O8z9ACe_icPy66thidj",
+    "character_id": "-O8z81nWipWjZrsCXqBN",
+    "user_id": "-O8z8lIGCmtTYkoAF13c",
+    "health": 19,
+    "buffs": {}
+  },
+  "-O8zBLD8q1oULIpCdKXX": {
+    "session_id": "-O8z9AChsKi6Lfhd62Vd",
+    "character_id": "-O8z81nZWmgAjGy2m9k3",
+    "user_id": "-O8z8lIHY7QnBKk-gNA6",
+    "health": 45,
+    "buffs": {}
+  },
+  "-O8zBLD95BdfPS_TSO_H": {
+    "session_id": "-O8z9ACj9p2D8fIBqbmj",
+    "character_id": "-O8z81n_aLGzLncdQAxJ",
+    "user_id": "-O8z8lII9WG_Ghufu_xk",
+    "health": 38,
+    "buffs": {}
+  },
+  "-O8zBLDAJh0RNYMywvhK": {
+    "session_id": "-O8z9AClw0GIqJqk5TtM",
+    "character_id": "-O8z81nb-ZciP_Tn6wlG",
+    "user_id": "-O8z8lII9WG_Ghufu_xl",
+    "health": 14,
+    "buffs": {}
+  },
+  "-O8zBLDBGTHaXjnTbZi7": {
+    "session_id": "-O8z9ACnXTKB0nWuGvR7",
+    "character_id": "-O8z81nd0qkB9cMrReGc",
+    "user_id": "-O8z8lIJAc3b7dBp85-i",
+    "health": 0,
+    "buffs": {}
+  }
+}

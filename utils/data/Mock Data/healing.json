@@ -1,0 +1,27 @@
+{
+  "-O8zBjTqVxAEJuo-NqTa": {
+    "healer_id": "-O8z81nWipWjZrsCXqBN",
+    "target_id": "-O8z81n_aLGzLncdQAxJ",
+    "amount": 263.46
+  },
+  "-O8zBjTskEF_Y8Ww2y19": {
+    "healer_id": "-O8z81nb-ZciP_Tn6wlG",
+    "target_id": "-O8z81nd0qkB9cMrReGc",
+    "amount": 413.68
+  },
+  "-O8zBjTuJJTB8yeloqqd": {
+    "healer_id": "-O8z81nZWmgAjGy2m9k3",
+    "target_id": "-O8z81nWipWjZrsCXqBN",
+    "amount": 399.44
+  },
+  "-O8zBjTuJJTB8yeloqqe": {
+    "healer_id": "-O8z81n_aLGzLncdQAxJ",
+    "target_id": "-O8z81nb-ZciP_Tn6wlG",
+    "amount": 192.72
+  },
+  "-O8zBjTvKGQ9B_m1hews": {
+    "healer_id": "-O8z81nd0qkB9cMrReGc",
+    "target_id": "-O8z81nZWmgAjGy2m9k3",
+    "amount": 208.49
+  }
+}
