@@ -1,0 +1,27 @@
+{
+  "-O8zC3mnFssZsooGQQQb": {
+    "source_id": "-O8z81nWipWjZrsCXqBN",
+    "target_id": "-O8z81nZWmgAjGy2m9k3",
+    "buff_type": "buff to speed"
+  },
+  "-O8zC3mq1Zqv4fsoJZbA": {
+    "source_id": "-O8z81n_aLGzLncdQAxJ",
+    "target_id": "-O8z81nb-ZciP_Tn6wlG",
+    "buff_type": "buff to AC"
+  },
+  "-O8zC3ms6P5DKcV3J2bf": {
+    "source_id": "-O8z81nd0qkB9cMrReGc",
+    "target_id": "-O8z81nWipWjZrsCXqBN",
+    "buff_type": "buff to AC"
+  },
+  "-O8zC3muB_3SLobEWORM": {
+    "source_id": "-O8z81nZWmgAjGy2m9k3",
+    "target_id": "-O8z81n_aLGzLncdQAxJ",
+    "buff_type": "buff to AC"
+  },
+  "-O8zC3mwUBSM9c8CufoT": {
+    "source_id": "-O8z81nb-ZciP_Tn6wlG",
+    "target_id": "-O8z81nd0qkB9cMrReGc",
+    "buff_type": "buff to attack"
+  }
+}

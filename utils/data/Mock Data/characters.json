@@ -1,0 +1,62 @@
+{
+  "-O8z81nWipWjZrsCXqBN": {
+    "character_name": "Emily Davis",
+    "image_url": "image3.gif",
+    "class": "Hunter",
+    "race": "Dwarf",
+    "ac": 27,
+    "hp": 19,
+    "speed": 14,
+    "surge_value": 24,
+    "special_ability": "Time Manipulation",
+    "critical_hit": "CRITICAL HIT: +1 damage"
+  },
+  "-O8z81nZWmgAjGy2m9k3": {
+    "character_name": "Jane Smith",
+    "image_url": "image1.jpg",
+    "class": "Hunter",
+    "race": "Orc",
+    "ac": 10,
+    "hp": 45,
+    "speed": 21,
+    "surge_value": 23,
+    "special_ability": "Telekinesis",
+    "critical_hit": "No CRITICAL HIT"
+  },
+  "-O8z81n_aLGzLncdQAxJ": {
+    "character_name": "Chris Brown",
+    "image_url": "image1.jpg",
+    "class": "Rogue",
+    "race": "Dwarf",
+    "ac": 27,
+    "hp": 38,
+    "speed": 38,
+    "surge_value": 49,
+    "special_ability": "Super Strength",
+    "critical_hit": "No CRITICAL HIT"
+  },
+  "-O8z81nb-ZciP_Tn6wlG": {
+    "character_name": "Chris Brown",
+    "image_url": "image2.png",
+    "class": "Druid",
+    "race": "Elf",
+    "ac": 13,
+    "hp": 14,
+    "speed": 39,
+    "surge_value": 41,
+    "special_ability": "Telekinesis",
+    "critical_hit": "No CRITICAL HIT"
+  },
+  "-O8z81nd0qkB9cMrReGc": {
+    "character_name": "John Doe",
+    "image_url": "image3.gif",
+    "class": "Hunter",
+    "race": "Dwarf",
+    "ac": 32,
+    "hp": 0,
+    "speed": 11,
+    "surge_value": 35,
+    "special_ability": "Time Manipulation",
+    "critical_hit": "No CRITICAL HIT"
+  }
+}
